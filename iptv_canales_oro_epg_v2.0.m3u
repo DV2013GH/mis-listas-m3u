@@ -30,7 +30,7 @@ http://190.93.224.42/ATV/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo_-exitosa_-1.png" group-title="LOCALES | PERU", PE | Exitosa TV
 http://190.93.224.42/EXITOSA/index.m3u8
 
-#EXTINF:-1 tvg-id="VivaTV.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/VIVATV/EXPORTACION_WEB/SS/VIVATV_t-290x163.png" group-title="LOCALES | PERU", PE | Viva TV
+#EXTINF:-1 tvg-id="VivaTV.pe" tvg-logo="https://i.imgur.com/wcuGwhL.png" group-title="LOCALES | PERU", PE | Viva TV
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/VIVATV/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/n/a/nativa_logo.png" group-title="LOCALES | PERU", PE | Nativa TV
@@ -39,17 +39,17 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/g/l/global_1.png" group-title="LOCALES | PERU", PE | Global TV
 http://190.93.224.42/GLOBAL/index.m3u8
 
+#EXTINF:-1 tvg-id="UsmpTV.pe" tvg-logo="https://i.imgur.com/hCQF17l.png" group-title="LOCALES | PERU", PE | USMP TV
+http://190.93.224.42/USMP/index.m3u8
+
+#EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/IPE/EXPORTACION_WEB/SS/IPE_t-290x163.png" group-title="LOCALES | PERU", PE | Canal IPe
+http://190.93.224.42/IPE/index.m3u8
+
 #EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/LATELE/EXPORTACION_WEB/SS/LATELE_t-290x163.png" group-title="LOCALES | PERU", PE | La Tele HD
 http://190.93.224.42/LATELE/index.m3u8
 
 #EXTINF:-1 tvg-id="TVLibertad.pe" tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/TVLIBERTAD/EXPORTACION_WEB/SS/TVLIBERTAD_t-290x163.png" group-title="LOCALES | PERU", PE | TVLibertad
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=15088&live=1&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&app_name=[%APP_NAME%]&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid=com.streamingconnect.viva&min_ad_duration=6&max_ad_duration=120&ssai_enabled=1&content_cat=IAB1,IAB8,IAB12,IAB14,IAB17,IAB18,IAB20&content_context=live&content_genre=Entertainment,News,Culture&content_keywords=entretenimiento,cultura,noticias,españa&content_language=es&content_network=streamingconnect&content_rating=TV-G&partner_domain=https%3A%2F%2Fgrupotvl.com&player_height=[HEIGHT]&player_width=[WIDTH]&ifa_type=[IFA_TYPE]&did=[DID]&device_type=[DEVICE_TYPE]&ip=[IP]&ua=[UA]&gdpr=[GDPR]&consent=[CONSENT]&us_privacy=[US_PRIVACY]
-
-#EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/IPE/EXPORTACION_WEB/SS/IPE_t-290x163.png" group-title="LOCALES | PERU", PE | Canal IPe
-http://190.93.224.42/IPE/index.m3u8
-
-#EXTINF:-1 tvg-id="UsmpTV.pe" tvg-logo="https://i.imgur.com/hCQF17l.png" group-title="LOCALES | PERU", PE | USMP TV
-http://190.93.224.42/USMP/index.m3u8
 
 #EXTINF:-1 tvg-id="Congreso.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CANALDELCONGRESOPER/EXPORTACION_WEB/SS/CANALDELCONGRESOPER_t-290x163.png" group-title="LOCALES | PERU", PE | Congreso TV
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALCONGRESO/hls_fk/playlist_dvr.m3u8
@@ -57,11 +57,11 @@ https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALCONGRESO/hls_fk/playlist_dvr.m
 #EXTINF:-1 tvg-id="JusticiaTv.pe" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/CANALJUSTICIA/EXPORTACION_WEB/SS/CANALJUSTICIA_t-290x163.png" group-title="LOCALES | PERU", PE | Justicia TV
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALJUSTICIA/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/SOLTVPLUS/EXPORTACION_WEB/SS/SOLTVPLUS_t-290x163.png" group-title="LOCALES | PERU", PE | Sol TV+ HD
-https://pebpktstvhls-1.clarovideo.com/bpk-tv/SOLTVPLUS/hls_fk/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-id="AtvSur.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/ATVSURNEW/EXPORTACION_WEB/SS/ATVSURNEW_t-290x163.png" group-title="LOCALES | PERU", PE | ATV Sur
 http://190.93.224.42/ATV-SUR/index.m3u8
+
+#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/SOLTVPLUS/EXPORTACION_WEB/SS/SOLTVPLUS_t-290x163.png" group-title="LOCALES | PERU", PE | Sol TV+ HD
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/SOLTVPLUS/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="PE | TV Cosmos HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVCOSMOS/EXPORTACION_WEB/SS/TVCOSMOS_t-290x163.png" group-title="LOCALES | PERU", PE | TV Cosmos HD
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
@@ -200,6 +200,15 @@ http://45.224.97.181:9999/TC/index.m3u8
 
 #EXTINF:-1 tvg-id="EC | TELEAMAZONAS" tvg-logo="http://s0lc.net:8080/images/ecu_teleamazonas.png" group-title="LOCALES | ECUADOR", EC | TELEAMAZONAS
 http://45.224.97.181:9999/Teleamazonas/index.m3u8
+
+#EXTINF:-1 tvg-id="CR | Teletica 7" tvg-logo="http://redworld.pro:8880/images/aa7753b36872cd299835880f126002d8.png" group-title="LOCALES | COSTA RICA", CR | Teletica 7
+http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/490039.m3u8
+
+#EXTINF:-1 tvg-id="CR | Repretel 4" tvg-logo="http://redworld.pro:8880/images/d5aa4f7c2d3f69829c4eddd70f87a248.png" group-title="LOCALES | COSTA RICA", CR | Repretel 4
+http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/490042.m3u8
+
+#EXTINF:-1 tvg-id="CR | Repretel 6" tvg-logo="http://redworld.pro:8880/images/dd531d088d27417200267778510be1e2.png" group-title="LOCALES | COSTA RICA", CR | Repretel 6
+http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/490044.m3u8
 
 #EXTINF:-1 tvg-id="67517fae5534bb0008187997" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png" group-title="FAST | PLUTO SPAIN", Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
@@ -2154,12 +2163,6 @@ http://xstr.cyou/live/Martin49/Silvera49/7e1f2049-7e7e-47f1-adae-854321a74cf0.m3
 #EXTINF:-1 tvg-id="D | Ovacion Peru" tvg-logo="https://i.imgur.com/h33vQDZ.png" group-title="DEPORTES | PERU", D | Ovacion Peru
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="CO | WIN SPORTS" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="DEPORTES | COLOMBIA", CO | WIN SPORTS
-http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/437742.m3u8
-
-#EXTINF:-1 tvg-id="CO | WIN+ FUTBOL" tvg-logo="http://redworld.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="DEPORTES | COLOMBIA", CO | WIN+ FUTBOL
-http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/437741.m3u8
-
 #EXTINF:-1 tvg-id="ESPN Premium.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPNPREMIUM/EXPORTACION_WEB/SS/ESPNPREMIUM_t-290x163.png" group-title="DEPORTES | CHILE", D | ESPN Premium Chile
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GNPoxlW8GAMTDBsY9jorKlY/m3u8
 
@@ -2169,116 +2172,11 @@ http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GKiNfHc73mrB9SPqaqgadvA/m3u8
 #EXTINF:-1 tvg-id="D | CDO Basico Chile" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CDO/EXPORTACION_WEB/SS/CDO_t-290x163.png" group-title="DEPORTES | CHILE", D | CDO Basico Chile
 http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/273686.m3u8
 
-#EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/BETHEL/EXPORTACION_WEB/SS/BETHEL_t-290x163.png" group-title="CATEGORIA | RELIGION", R | BETHEL
-https://alfa.betheltv.tv/srt/3_abr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="CO | WIN SPORTS" tvg-logo="http://redworld.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" group-title="DEPORTES | COLOMBIA", CO | WIN SPORTS
+http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/437742.m3u8
 
-#EXTINF:-1 tvg-id="Enlace.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ENLACE/EXPORTACION_WEB/SS/ENLACE_t-290x163.png" group-title="CATEGORIA | RELIGION", R | ENLACE
-http://177.234.249.178:8888/ENLACE/index.m3u8
-
-#EXTINF:-1 tvg-id="Ewtn.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/EWTN/EXPORTACION_WEB/SS/EWTN_t-290x163.png" group-title="CATEGORIA | RELIGION", R | EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JN19TELEJUAN.pe" tvg-logo="https://1.bp.blogspot.com/-2AFicpAb7O0/Xxknx5NVNkI/AAAAAAAAKcU/gl6mdi1NirYwbJoBmRiwQxIw7YySf8gowCLcBGAsYHQ/s1600/jn19-tv.png" group-title="CATEGORIA | RELIGION", R | JN19 HD
-https://servilive.com:3028/live/jntv19live.m3u8
-
-#EXTINF:-1 tvg-id="CanalLuz.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_luz.png" group-title="CATEGORIA | RELIGION", R | CANAL LUZ
-https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
-
-#EXTINF:-1 tvg-id="LasEstrellas.pe" tvg-logo="http://redworld.pro:8880/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png" group-title="CATEGORIA | NOVELAS", NV | LAS ESTRELLAS
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GCnhU5MsR8ZQixBlgefv_iM/m3u8
-
-#EXTINF:-1 tvg-id="TLNovelas.pe" tvg-logo="http://redworld.pro:8880/images/efd44a468c4d56cd88590b069b3fd14a.png" group-title="CATEGORIA | NOVELAS", NV | TLNOVELAS
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GGNLZyq1ZpJ4pu865Smmv-w/m3u8
-
-#EXTINF:-1 tvg-id="Pasiones.pe" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="CATEGORIA | NOVELAS", NV | PASIONES
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GBdIkoCkJLxR4XPVB7lp1QU/m3u8
-
-#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="CATEGORIA | NOTICIAS", NT | 24 HORAS
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="CNN Int HD.cl" tvg-logo="https://i.imgur.com/w9ZJY0N.png" group-title="CATEGORIA | NOTICIAS", NT | CNN INTERNACIONAL
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GIeLnj7ny7qM4vMAbzFPv9w/m3u8
-
-#EXTINF:-1 tvg-id="TVE.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="CATEGORIA | NOTICIAS", INT | TVE
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-id="France24.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/FRANCE24/EXPORTACION_WEB/SS/FRANCE24_t-290x163.png" group-title="CATEGORIA | NOTICIAS", INT | FRANCE 24
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="RussiaToday.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="CATEGORIA | NOTICIAS", INT | RT
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTV.pe" tvg-logo="https://i.imgur.com/bcY56Ki.png" group-title="CATEGORIA | MUSICA", MS | MTV HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GKY206SKWAtd0QAEJGEVpOY/m3u8
-
-#EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://i.imgur.com/VIdIcJ6.png" group-title="CATEGORIA | MUSICA", MS | HTV HD
-http://tvdirect.pro:8080/live/rafatv24/rafa2024/143246.m3u
-
-#EXTINF:-1 tvg-id="MS | TOP LATINO TV" tvg-logo="https://i.imgur.com/BUbFZXU.png" group-title="CATEGORIA | MUSICA", MS | TOP LATINO TV
-http://tvdirect.pro:8080/live/rafatv24/rafa2024/360545.m3u
-
-#EXTINF:-1 tvg-id="MS | LA KARIBEÑA TV" tvg-logo="http://new.oaktvpro.club:2095/images/ee265094914276b90a3043684ff3003a.png" group-title="CATEGORIA | MUSICA", MS | LA KARIBEÑA TV
-http://tvdirect.pro:8080/live/rafatv24/rafa2024/3413.m3u
-
-#EXTINF:-1 tvg-id="BabyTv.pe" tvg-logo="http://s0lc.net:8080/images/inf_babytv.png" group-title="CATEGORIA | KIDS", K | BABY TV HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GJJqvWu99CrUFbbgBdniCrI/m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork.pe" tvg-logo="http://s0lc.net:8080/images/inf_cartoon_network.png" group-title="CATEGORIA | KIDS", K | CARTOON NETWORK
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GM7wf6ggV0n0Bat96GBB0Xc/m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito.pe" tvg-logo="http://s0lc.net:8080/images/inf_cartoonito.png" group-title="CATEGORIA | KIDS", K | CARTOONITO HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GJBOLIBfxbURqd6nRURUo3E/m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryKids.pe" tvg-logo="http://s0lc.net:8080/images/inf_discovery_kids.png" group-title="CATEGORIA | KIDS", K | DISCOVERY KIDS HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GOVY7FEEzGjY1NSfRAn6Iq0/m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.pe" tvg-logo="http://s0lc.net:8080/images/inf_disney_channel.png" group-title="CATEGORIA | KIDS", K | DISNEY CHANNEL HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GOG0VK9oG-DTQkPC8VMuQrw/m3u8
-
-#EXTINF:-1 tvg-id="DisneyJunior.pe" tvg-logo="http://s0lc.net:8080/images/inf_disney_junior.png" group-title="CATEGORIA | KIDS", K | DISNEY JUNIOR
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHCbLIL4C1VZJasH7ape0pU/m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.pe" tvg-logo="http://s0lc.net:8080/images/inf_nick.png" group-title="CATEGORIA | KIDS", K | NICK HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GFWeMBQOIDyEEc_Xu87tnpI/m3u8
-
-#EXTINF:-1 tvg-id="NickJr.pe" tvg-logo="http://s0lc.net:8080/images/inf_nick_junior.png" group-title="CATEGORIA | KIDS", K | NICK JR HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GK7dx_VTDtgeZ2j_5wPp1CQ/m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="http://s0lc.net:8080/images/inf_tooncast.png" group-title="CATEGORIA | KIDS", K | TOONCAST HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GK_th1o5J4cEhN9WDfiUBRM/m3u8
-
-#EXTINF:-1 tvg-id="DeutscheWelle.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DEUTSCHEWELLEHD/EXPORTACION_WEB/SS/DEUTSCHEWELLEHD_t-290x163.png" group-title="CATEGORIA | CULTURA", C | DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanet.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/ANIMALPLANETHD/EXPORTACION_WEB/SS/ANIMALPLANETHD_t-290x163.png" group-title="CATEGORIA | CULTURA", C | ANIMAL PLANET
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GFmtWbnbiDZrZAy-YmGR998/m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYCHANNEL/EXPORTACION_WEB/SS/DISCOVERYCHANNEL_t-290x163.png" group-title="CATEGORIA | CULTURA", C | DISCOVERY CHANNEL
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GMaGjPH18nWfsblIR1QoWug/m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryTheater.uy" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYTHEATER/EXPORTACION_WEB/SS/DISCOVERYTHEATER_t-290x163.png" group-title="CATEGORIA | CULTURA", C | DISCOVERY THEATER
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHOzJbm7NenscHLx0U3-JXo/m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uy" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYTURBO/EXPORTACION_WEB/SS/DISCOVERYTURBO_t-290x163.png" group-title="CATEGORIA | CULTURA", C | DISCOVERY TURBO
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GN6pQmhsIlibfVRGkRLNaTk/m3u8
-
-#EXTINF:-1 tvg-id="History.ar" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/HISTORYCHANNEL/EXPORTACION_WEB/SS/HISTORYCHANNEL_t-290x163.png" group-title="CATEGORIA | CULTURA", C | HISTORY CHANNEL
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GLNUQlu65cVqiITzdQyxPt4/m3u8
-
-#EXTINF:-1 tvg-id="History2.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/HISTORY2/EXPORTACION_WEB/SS/HISTORY2_t-290x163.png" group-title="CATEGORIA | CULTURA", C | HISTORY 2
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GNmpXSCsjUS3CGKBhE3fMrA/m3u8
-
-#EXTINF:-1 tvg-id="LoveNature.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/LOVENATURE/EXPORTACION_WEB/SS/LOVENATURE_t-290x163.png" group-title="CATEGORIA | CULTURA", C | LOVE NATURE HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GBccTPNbrgIQs-NWyjtfqvM/m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/NATGEOHD/EXPORTACION_WEB/SS/NATGEOHD_t-290x163.png" group-title="CATEGORIA | CULTURA", C | NAT GEO HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDiDmUBDA5QEc4lXF6Lk7hw/m3u8
-
-#EXTINF:-1 tvg-id="FoodNetwork.uy" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/FOODNETWORKHD/EXPORTACION_WEB/SS/FOODNETWORKHD_t-290x163.png" group-title="CATEGORIA | CULTURA", E | FOOD NETWORK
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GPdHx2ctz4O9ChfyqtJrvLY/m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYHOMEANDHEALTH/EXPORTACION_WEB/SS/DISCOVERYHOMEANDHEALTH_t-290x163.png" group-title="CATEGORIA | CULTURA", E | HOME AND HEALTH
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GOnEPCvyEV3WkCeUuPEI_4E/m3u8
+#EXTINF:-1 tvg-id="CO | WIN+ FUTBOL" tvg-logo="http://redworld.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" group-title="DEPORTES | COLOMBIA", CO | WIN+ FUTBOL
+http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/437741.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/CINECANAL/EXPORTACION_WEB/SS/CINECANAL_t-290x163.png" group-title="CATEGORIA | CINE Y SERIES", C | Cinecanal HD
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GN0PomdzPLFFBgyrRERQ3fk/m3u8
@@ -2348,4 +2246,115 @@ http://168.228.44.241:9998/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-id="UPLUS | REALITY HD" tvg-logo="https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="CATEGORIA | CINE Y SERIES", UPLUS | REALITY HD
 http://168.228.44.241:9998/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellas.pe" tvg-logo="http://redworld.pro:8880/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png" group-title="CATEGORIA | NOVELAS", NV | LAS ESTRELLAS
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GCnhU5MsR8ZQixBlgefv_iM/m3u8
+
+#EXTINF:-1 tvg-id="TLNovelas.pe" tvg-logo="http://redworld.pro:8880/images/efd44a468c4d56cd88590b069b3fd14a.png" group-title="CATEGORIA | NOVELAS", NV | TLNOVELAS
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GGNLZyq1ZpJ4pu865Smmv-w/m3u8
+
+#EXTINF:-1 tvg-id="Pasiones.pe" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="CATEGORIA | NOVELAS", NV | PASIONES
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GBdIkoCkJLxR4XPVB7lp1QU/m3u8
+
+#EXTINF:-1 tvg-id="BabyTv.pe" tvg-logo="http://s0lc.net:8080/images/inf_babytv.png" group-title="CATEGORIA | KIDS", K | BABY TV HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GJJqvWu99CrUFbbgBdniCrI/m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.pe" tvg-logo="http://s0lc.net:8080/images/inf_cartoon_network.png" group-title="CATEGORIA | KIDS", K | CARTOON NETWORK
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GM7wf6ggV0n0Bat96GBB0Xc/m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.pe" tvg-logo="http://s0lc.net:8080/images/inf_cartoonito.png" group-title="CATEGORIA | KIDS", K | CARTOONITO HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GJBOLIBfxbURqd6nRURUo3E/m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.pe" tvg-logo="http://s0lc.net:8080/images/inf_discovery_kids.png" group-title="CATEGORIA | KIDS", K | DISCOVERY KIDS HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GOVY7FEEzGjY1NSfRAn6Iq0/m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.pe" tvg-logo="http://s0lc.net:8080/images/inf_disney_channel.png" group-title="CATEGORIA | KIDS", K | DISNEY CHANNEL HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GOG0VK9oG-DTQkPC8VMuQrw/m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.pe" tvg-logo="http://s0lc.net:8080/images/inf_disney_junior.png" group-title="CATEGORIA | KIDS", K | DISNEY JUNIOR
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHCbLIL4C1VZJasH7ape0pU/m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.pe" tvg-logo="http://s0lc.net:8080/images/inf_nick.png" group-title="CATEGORIA | KIDS", K | NICK HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GFWeMBQOIDyEEc_Xu87tnpI/m3u8
+
+#EXTINF:-1 tvg-id="NickJr.pe" tvg-logo="http://s0lc.net:8080/images/inf_nick_junior.png" group-title="CATEGORIA | KIDS", K | NICK JR HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GK7dx_VTDtgeZ2j_5wPp1CQ/m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="http://s0lc.net:8080/images/inf_tooncast.png" group-title="CATEGORIA | KIDS", K | TOONCAST HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GK_th1o5J4cEhN9WDfiUBRM/m3u8
+
+#EXTINF:-1 tvg-id="DeutscheWelle.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DEUTSCHEWELLEHD/EXPORTACION_WEB/SS/DEUTSCHEWELLEHD_t-290x163.png" group-title="CATEGORIA | CULTURA", C | DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/ANIMALPLANETHD/EXPORTACION_WEB/SS/ANIMALPLANETHD_t-290x163.png" group-title="CATEGORIA | CULTURA", C | ANIMAL PLANET
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GFmtWbnbiDZrZAy-YmGR998/m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYCHANNEL/EXPORTACION_WEB/SS/DISCOVERYCHANNEL_t-290x163.png" group-title="CATEGORIA | CULTURA", C | DISCOVERY CHANNEL
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GMaGjPH18nWfsblIR1QoWug/m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTheater.uy" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYTHEATER/EXPORTACION_WEB/SS/DISCOVERYTHEATER_t-290x163.png" group-title="CATEGORIA | CULTURA", C | DISCOVERY THEATER
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHOzJbm7NenscHLx0U3-JXo/m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uy" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYTURBO/EXPORTACION_WEB/SS/DISCOVERYTURBO_t-290x163.png" group-title="CATEGORIA | CULTURA", C | DISCOVERY TURBO
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GN6pQmhsIlibfVRGkRLNaTk/m3u8
+
+#EXTINF:-1 tvg-id="History.ar" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/HISTORYCHANNEL/EXPORTACION_WEB/SS/HISTORYCHANNEL_t-290x163.png" group-title="CATEGORIA | CULTURA", C | HISTORY CHANNEL
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GLNUQlu65cVqiITzdQyxPt4/m3u8
+
+#EXTINF:-1 tvg-id="History2.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/HISTORY2/EXPORTACION_WEB/SS/HISTORY2_t-290x163.png" group-title="CATEGORIA | CULTURA", C | HISTORY 2
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GNmpXSCsjUS3CGKBhE3fMrA/m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/LOVENATURE/EXPORTACION_WEB/SS/LOVENATURE_t-290x163.png" group-title="CATEGORIA | CULTURA", C | LOVE NATURE HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GBccTPNbrgIQs-NWyjtfqvM/m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/NATGEOHD/EXPORTACION_WEB/SS/NATGEOHD_t-290x163.png" group-title="CATEGORIA | CULTURA", C | NAT GEO HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDiDmUBDA5QEc4lXF6Lk7hw/m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.uy" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/FOODNETWORKHD/EXPORTACION_WEB/SS/FOODNETWORKHD_t-290x163.png" group-title="CATEGORIA | CULTURA", E | FOOD NETWORK
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GPdHx2ctz4O9ChfyqtJrvLY/m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYHOMEANDHEALTH/EXPORTACION_WEB/SS/DISCOVERYHOMEANDHEALTH_t-290x163.png" group-title="CATEGORIA | CULTURA", E | HOME AND HEALTH
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GOnEPCvyEV3WkCeUuPEI_4E/m3u8
+
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="CATEGORIA | NOTICIAS", NT | 24 HORAS
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="CNN Int HD.cl" tvg-logo="https://i.imgur.com/w9ZJY0N.png" group-title="CATEGORIA | NOTICIAS", NT | CNN INTERNACIONAL
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GIeLnj7ny7qM4vMAbzFPv9w/m3u8
+
+#EXTINF:-1 tvg-id="TVE.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="CATEGORIA | NOTICIAS", INT | TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-id="France24.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/FRANCE24/EXPORTACION_WEB/SS/FRANCE24_t-290x163.png" group-title="CATEGORIA | NOTICIAS", INT | FRANCE 24
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="RussiaToday.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="CATEGORIA | NOTICIAS", INT | RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/BETHEL/EXPORTACION_WEB/SS/BETHEL_t-290x163.png" group-title="CATEGORIA | RELIGION", R | BETHEL
+https://alfa.betheltv.tv/srt/3_abr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Enlace.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ENLACE/EXPORTACION_WEB/SS/ENLACE_t-290x163.png" group-title="CATEGORIA | RELIGION", R | ENLACE
+http://177.234.249.178:8888/ENLACE/index.m3u8
+
+#EXTINF:-1 tvg-id="Ewtn.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/EWTN/EXPORTACION_WEB/SS/EWTN_t-290x163.png" group-title="CATEGORIA | RELIGION", R | EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JN19TELEJUAN.pe" tvg-logo="https://1.bp.blogspot.com/-2AFicpAb7O0/Xxknx5NVNkI/AAAAAAAAKcU/gl6mdi1NirYwbJoBmRiwQxIw7YySf8gowCLcBGAsYHQ/s1600/jn19-tv.png" group-title="CATEGORIA | RELIGION", R | JN19 HD
+https://servilive.com:3028/live/jntv19live.m3u8
+
+#EXTINF:-1 tvg-id="CanalLuz.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_luz.png" group-title="CATEGORIA | RELIGION", R | CANAL LUZ
+https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV.pe" tvg-logo="https://i.imgur.com/bcY56Ki.png" group-title="CATEGORIA | MUSICA", MS | MTV HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GKY206SKWAtd0QAEJGEVpOY/m3u8
+
+#EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://i.imgur.com/VIdIcJ6.png" group-title="CATEGORIA | MUSICA", MS | HTV HD
+http://tvdirect.pro:8080/live/rafatv24/rafa2024/143246.m3u
+
+#EXTINF:-1 tvg-id="MS | TOP LATINO TV" tvg-logo="https://i.imgur.com/BUbFZXU.png" group-title="CATEGORIA | MUSICA", MS | TOP LATINO TV
+http://tvdirect.pro:8080/live/rafatv24/rafa2024/360545.m3u
+
+#EXTINF:-1 tvg-id="MS | LA KARIBEÑA TV" tvg-logo="http://new.oaktvpro.club:2095/images/ee265094914276b90a3043684ff3003a.png" group-title="CATEGORIA | MUSICA", MS | LA KARIBEÑA TV
+http://tvdirect.pro:8080/live/rafatv24/rafa2024/3413.m3u
 
