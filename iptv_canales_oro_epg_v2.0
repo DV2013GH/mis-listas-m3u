@@ -120,7 +120,7 @@ http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/273685.m
 #EXTINF:-1 tvg-id="Teletrak.cl" tvg-logo="http://redworld.pro:8880/images/615dd9a69b3a31b194c8d0cca6ff32ab.png" group-title="LOCALES | CHILE", CL | TELETRAK HD
 http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/300287.m3u8
 
-#EXTINF:-1 tvg-id="etc.cl" tvg-logo="http://redworld.pro:8880/images/53cce5c404153affac857ada5ce7bc12.png" group-title="LOCALES | CHILE", CL | ETC TV
+#EXTINF:-1 tvg-id="ETC TV.cl" tvg-logo="http://redworld.pro:8880/images/53cce5c404153affac857ada5ce7bc12.png" group-title="LOCALES | CHILE", CL | ETC TV
 http://redworld.pro:8880/live/FranciscoFullxd@@@/Fn9237822@M@@923783379/273684.m3u8
 
 #EXTINF:-1 tvg-id="VIA X.cl" tvg-logo="http://redworld.pro:8880/images/5c73b6b860ce69ede2f755625889a0ab.png" group-title="LOCALES | CHILE", CL | VIA X HD
@@ -504,22 +504,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16511&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvestelar_400x200_lg.png" group-title="FAST | FREE TV", FreeTV Estelar
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 
-#EXTINF:-1 tvg-id="24 Horas.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ESPAÑA | TDT", ES: 24 HORAS
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ESPAÑA | TDT", ES: 24 HORAS
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5550.m3u8
 
-#EXTINF:-1 tvg-id="Antena 3.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ESPAÑA | TDT", ES: ANTENA 3
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ESPAÑA | TDT", ES: ANTENA 3
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5555.m3u8
 
-#EXTINF:-1 tvg-id="Be Mad.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ESPAÑA | TDT", ES: BE MAD
+#EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ESPAÑA | TDT", ES: BE MAD
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5561.m3u8
 
 #EXTINF:-1 tvg-id="boing.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ESPAÑA | TDT", ES: BOING
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5565.m3u8
 
-#EXTINF:-1 tvg-id="Calle 13.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ESPAÑA | TDT", ES: CALLE 13
+#EXTINF:-1 tvg-id="Calle13.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ESPAÑA | TDT", ES: CALLE 13
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5567.m3u8
 
-#EXTINF:-1 tvg-id="Clan TVE.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ESPAÑA | TDT", ES: CLAN TVE
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ESPAÑA | TDT", ES: CLAN TVE
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5580.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ESPAÑA | TDT", ES: CUATRO
@@ -531,22 +531,22 @@ http://neospaxy.top:8080/live/961701958069001/71701958069247/5599.m3u8
 #EXTINF:-1 tvg-id="DKiss.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="ESPAÑA | TDT", ES: DKISS
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5600.m3u8
 
-#EXTINF:-1 tvg-id="El Toro TV.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ESPAÑA | TDT", ES: EL TORO TV
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ESPAÑA | TDT", ES: EL TORO TV
 http://neospaxy.top:8080/live/961701958069001/71701958069247/25932.m3u8
 
 #EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ESPAÑA | TDT", ES: ENERGY
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5603.m3u8
 
-#EXTINF:-1 tvg-id="Factoría de Ficción.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ESPAÑA | TDT", ES: FDF
+#EXTINF:-1 tvg-id="FDF.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ESPAÑA | TDT", ES: FDF
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5611.m3u8
 
-#EXTINF:-1 tvg-id="La 1.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ESPAÑA | TDT", ES: LA 1
+#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ESPAÑA | TDT", ES: LA 1
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5622.m3u8
 
-#EXTINF:-1 tvg-id="La 2.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ESPAÑA | TDT", ES: LA 2
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ESPAÑA | TDT", ES: LA 2
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5623.m3u8
 
-#EXTINF:-1 tvg-id="La Sexta.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ESPAÑA | TDT", ES: LA SEXTA
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ESPAÑA | TDT", ES: LA SEXTA
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5625.m3u8
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ESPAÑA | TDT", ES: MEGA
@@ -558,7 +558,7 @@ http://neospaxy.top:8080/live/961701958069001/71701958069247/5718.m3u8
 #EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ESPAÑA | TDT", ES: NOVA
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5723.m3u8
 
-#EXTINF:-1 tvg-id="Real Madrid TV.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="ESPAÑA | TDT", ES: REAL MADRID TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="ESPAÑA | TDT", ES: REAL MADRID TV
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5729.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ESPAÑA | TDT", ES: TELECINCO
@@ -567,10 +567,10 @@ http://neospaxy.top:8080/live/961701958069001/71701958069247/5734.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ESPAÑA | TDT", ES: TELEDEPORTE
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5735.m3u8
 
-#EXTINF:-1 tvg-id="Trece.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ESPAÑA | TDT", ES: TRECE
+#EXTINF:-1 tvg-id="TRECE.es" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ESPAÑA | TDT", ES: TRECE
 http://neospaxy.top:8080/live/961701958069001/71701958069247/5741.m3u8
 
-#EXTINF:-1 tvg-id="TV Canaria.es" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="ESPAÑA | TDT", ES: TV Canaria
+#EXTINF:-1 tvg-id="TVCanaria.es" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="ESPAÑA | TDT", ES: TV Canaria
 http://neospaxy.top:8080/live/961701958069001/71701958069247/70904.m3u8
 
 #EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="ESPAÑA | A3PLAYER INT.", A3 | HOLA TV
@@ -1937,3 +1937,4 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66fd3e25216b
 
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="ESPAÑA | PLEX", Éxitos del Momento
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58/?X-Plex-Token=4jiQ_dtxpMgHW8CL9jF7
+
