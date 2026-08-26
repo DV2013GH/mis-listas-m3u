@@ -10,7 +10,7 @@ http://190.93.224.42/LATINA/index.m3u8
 http://190.93.224.42/RPP/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/m/am_rica_tv.png" group-title="LOCALES | PERU", PE | America Television
-http://190.93.224.42/AMERICA-TV/index.m3u8
+http://190.93.224.42/AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/p/a/panamericana_hd.png" group-title="LOCALES | PERU", PE | Panamericana TV
 http://190.93.224.42/PANAMERICANA/index.m3u8
