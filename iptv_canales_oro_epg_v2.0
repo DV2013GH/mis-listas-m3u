@@ -162,7 +162,7 @@ http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="http://s0lc.net:8080/images/ecu_ecuavisa.png" group-title="LOCALES | ECUADOR", EC | ECUAVISA
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Canal Ecuador TV (Ecuador).ec" tvg-logo="http://s0lc.net:8080/images/ecu_ecuadortv.png" group-title="LOCALES | ECUADOR", EC | ECUADOR TV
+#EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="http://s0lc.net:8080/images/ecu_ecuadortv.png" group-title="LOCALES | ECUADOR", EC | ECUADOR TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
 #EXTINF:-1 tvg-id="EC | OROMAR TV" tvg-logo="http://s0lc.net:8080/images/ecu_oromartv.png" group-title="LOCALES | ECUADOR", EC | OROMAR TV
@@ -177,19 +177,19 @@ http://45.224.97.181:9999/TC/index.m3u8
 #EXTINF:-1 tvg-id="EC | TELEAMAZONAS" tvg-logo="http://s0lc.net:8080/images/ecu_teleamazonas.png" group-title="LOCALES | ECUADOR", EC | TELEAMAZONAS
 http://45.224.97.181:9999/Teleamazonas/index.m3u8
 
-#EXTINF:-1 tvg-id="UR | CANAL 10 SAETA HD" tvg-logo="http://new.oaktvpro.club:2095/images/6950bf7cb0c21c7449f8929165864e03.png" group-title="LOCALES | URUGUAY", UR | CANAL 10 SAETA HD
+#EXTINF:-1 tvg-id="Canal10.uy" tvg-logo="http://new.oaktvpro.club:2095/images/6950bf7cb0c21c7449f8929165864e03.png" group-title="LOCALES | URUGUAY", UR | CANAL 10 HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/13087.m3u
 
-#EXTINF:-1 tvg-id="UR | CANAL 12 TELEDOCE HD" tvg-logo="http://new.oaktvpro.club:2095/images/e6120b2dac16df46ecae498e1b5712f5.png" group-title="LOCALES | URUGUAY", UR | CANAL 12 TELEDOCE HD
+#EXTINF:-1 tvg-id="Canal12.uy" tvg-logo="http://new.oaktvpro.club:2095/images/e6120b2dac16df46ecae498e1b5712f5.png" group-title="LOCALES | URUGUAY", UR | CANAL 12 HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/13088.m3u
 
-#EXTINF:-1 tvg-id="UR | TV CIUDAD HD" tvg-logo="http://new.oaktvpro.club:2095/images/dd3c97f3a17a089a6fc535f64591ae2a.png" group-title="LOCALES | URUGUAY", UR | TV CIUDAD HD
+#EXTINF:-1 tvg-id="TVCiudad.uy" tvg-logo="http://new.oaktvpro.club:2095/images/dd3c97f3a17a089a6fc535f64591ae2a.png" group-title="LOCALES | URUGUAY", UR | TV CIUDAD HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/13095.m3u
 
-#EXTINF:-1 tvg-id="UR | VTV HD" tvg-logo="http://new.oaktvpro.club:2095/images/e3a5264fbce12832c495b6b03cb7a43c.png" group-title="LOCALES | URUGUAY", UR | VTV HD
+#EXTINF:-1 tvg-id="VTV.uy" tvg-logo="http://new.oaktvpro.club:2095/images/e3a5264fbce12832c495b6b03cb7a43c.png" group-title="LOCALES | URUGUAY", UR | VTV HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/13090.m3u
 
-#EXTINF:-1 tvg-id="UR | VTV PLUS  HD" tvg-logo="http://new.oaktvpro.club:2095/images/3363f5ed5f1c8bc221284d682e0ba3d7.png" group-title="LOCALES | URUGUAY", UR | VTV PLUS  HD
+#EXTINF:-1 tvg-id="VTVPlus.uy" tvg-logo="http://new.oaktvpro.club:2095/images/3363f5ed5f1c8bc221284d682e0ba3d7.png" group-title="LOCALES | URUGUAY", UR | VTV PLUS  HD
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/13091.m3u
 
 #EXTINF:-1 tvg-id="A+.mx" tvg-logo="https://i.imgur.com/60T1bcu.png" group-title="LOCALES | MEXICO", MX | A MAS+
