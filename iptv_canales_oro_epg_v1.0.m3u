@@ -123,9 +123,6 @@ http://45.162.193.35:80/TVN/index.m3u8
 #EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/24-horas.png" group-title="LOCALES | CHILE", CL | 24 Horas HD
 http://181.78.88.113:9800/play/a09o/index.m3u8
 
-#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tv-plus.png" group-title="LOCALES | CHILE", CL | TV+ HD
-http://181.78.88.113:9800/play/a09m/index.m3u8
-
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/la-red.png" group-title="LOCALES | CHILE", CL | La Red HD
 http://181.78.88.113:9800/play/a09n/index.m3u8
 
@@ -136,7 +133,16 @@ http://181.78.88.113:9800/play/a067/index.m3u8
 http://181.78.88.113:9800/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-id="549" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/t13.png" group-title="LOCALES | CHILE", CL | T13 En Vivo HD
+http://181.78.88.113:9800/play/a0aj/index.m3u8
 
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tv-plus.png" group-title="LOCALES | CHILE", CL | TV+ HD
+http://181.78.88.113:9800/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-id="584" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/mega-2.png" group-title="LOCALES | CHILE", CL | Mega 2
+http://181.78.88.113:9800/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-id="1638dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/teletrak-tv.png" group-title="LOCALES | CHILE", CL | Teletrak
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELEFE/EXPORTACION_WEB/SS/TELEFE_t-290x163.png" group-title="LOCALES | ARGENTINA", AR | Telefe
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/5733.m3u
